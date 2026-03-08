@@ -1,0 +1,4 @@
+META-INF\spring.components
+com\devops\App.class
+com\devops\Greeting.class
+com\devops\GreetingController.class
